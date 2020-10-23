@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{A6A73684-AF34-4777-AC81-BA86FDA27FBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{DE5D4316-87A5-4C77-9395-4A47E7195919}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{755DD2CE-59FC-40F8-88CC-A4485DF6EE7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{C4C9E90D-A71E-43BC-ABA5-448D9B71C061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A73684-AF34-4777-AC81-BA86FDA27FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A73684-AF34-4777-AC81-BA86FDA27FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A73684-AF34-4777-AC81-BA86FDA27FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A73684-AF34-4777-AC81-BA86FDA27FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6A73684-AF34-4777-AC81-BA86FDA27FBD} = {DE5D4316-87A5-4C77-9395-4A47E7195919}
+	EndGlobalSection
+EndGlobal
